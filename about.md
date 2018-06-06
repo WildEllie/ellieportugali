@@ -7,7 +7,7 @@ sub_heading: What I do
 layout: landing-page
 textline: A multidisciplinary blog for everyone, mostly coders.
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
+show_staff: false
 menu:
   footer:
     name: About
