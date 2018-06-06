@@ -1,6 +1,6 @@
 ---
 title: Ellie Portugali
-banner_image: "/uploads/storm_cloud_sun_rays-wallpaper-1920x1200.jpg"
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Looking up to the clouds
 partners: []
@@ -16,7 +16,7 @@ textline: Ellie Portugali blogs about arts and crafts, wine, coding, cloud, etc.
 hero_button:
   text: Read more
   href: "/about"
-show_news: true
+show_news: false
 menu:
   navigation:
     name: Ellie Portugali
