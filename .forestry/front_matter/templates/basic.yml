@@ -1,4 +1,10 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: datetime
+  default: 2018-06-18 21:00:00 +0000
+- type: text
+  default: Title
+  label: title
+  name: title
