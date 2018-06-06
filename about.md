@@ -22,6 +22,6 @@ menu:
 ---
 I started this because I am using for my work a lot of information I find on web searches, and the good gems are usually on someone's blog post. 
 
-Once in a blue moon, maybe twice, I don't find how to do or solve somehting and I end up burning a lot of precious time to figure things out.
+Once in a blue moon, maybe twice, I don't find how to do or solve something and I end up burning a lot of precious time to figure things out.
 
 Maybe if I put this in writing - I will help someone else, and booom - we're even :)
