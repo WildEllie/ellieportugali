@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/כבדי עוף על מצע פירה דלעת וריבת בצל.jpg"
+banner_image: "/uploads/IMG_20180224_112817_HDR.jpg"
 heading: About this blog
 sub_heading: What I do
 layout: landing-page
